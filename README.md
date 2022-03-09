@@ -1,0 +1,1 @@
+This is a blog project I am creating to deploy and manage through AWS S3
