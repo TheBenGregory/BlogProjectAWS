@@ -1,6 +1,6 @@
 This is a blog project I am creating to deploy and manage through AWS S3
 
-It was created using the <link href='https://themes.gohugo.io/themes/hugo-theme-terminal/#how-to-start'>Terminal</link> theme from panr 
+It was created using the <a href='https://themes.gohugo.io/themes/hugo-theme-terminal/#how-to-start'>Terminal</a> theme from panr 
 
 The MIT License (MIT)
 
