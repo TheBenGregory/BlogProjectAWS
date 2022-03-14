@@ -18,7 +18,6 @@ It utilizes a JSON server built and served locally to store user data. The users
 
 
 
-{{< image src="static/img/gigAgentSS.png" alt="gigAgent" position="center" style="border-radius: 8px;" >}}
 
 ![Image](/gigAgentSS.jpg)
 

@@ -77,7 +77,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "JBGregory"
+      logoText = "Home"
       logoHomeLink = "/"
 
     [languages.en.menu]
